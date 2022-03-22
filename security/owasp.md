@@ -1,6 +1,8 @@
 ## [🪴 View in the Comfort of My Digital Garden: Open Web Application Security Project (OWASP)](https://www.aniqa.io/wiki/security/owasp)
 
 The OWASP 10 online document that provides developers access to information regarding the top ten security risks for web applications along with possible solutions.
+
+
 ---
 
 [**Open Web Application Security Project (OWASP)**](https://owasp.org/) - online, open-source community of web security experts from across the world that creates technologies, documentation & tools to improve and maintain web and software security.
