@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Security - Mixed Content](https://www.aniqa.io/wiki/security/mixed-content)
+## [🪴 View In My Digital Garden: Security - Mixed Content](https://www.aniqa.io/wiki/security/mixed-content)
 
 Understanding what type of websites are classified as Mixed Content and how to diagnose and remedy the issue.
 
