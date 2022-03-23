@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Same-Origin Policy](https://www.aniqa.io/wiki/security/same-origin)
+## [🪴 View In My Digital Garden: Same-Origin Policy](https://www.aniqa.io/wiki/security/same-origin)
 
 Basic definition of the same-origin policy to better understand other online security vulnerabilities.
 
