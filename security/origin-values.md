@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Site Origin Values](https://www.aniqa.io/wiki/security/origin-values)
+## [🪴 View In My Digital Garden: Site Origin Values](https://www.aniqa.io/wiki/security/origin-values)
 
 Breaking down the formatting of domains, subdomains and ports to understand if there are any security vulnerabilities.
 
