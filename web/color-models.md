@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Language of Computers: Binary - Color Models](https://www.aniqa.io/wiki/web/color-models)
+## [🪴 View In My Digital Garden: Language of Computers: Binary - Color Models](https://www.aniqa.io/wiki/web/color-models)
 
 The basics to understanding how different color models represent millions of different colors with varying degrees of saturation and brightness.
 
