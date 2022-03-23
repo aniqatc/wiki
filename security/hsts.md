@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: HTTP Strict Transport Security (HSTS)](https://www.aniqa.io/wiki/security/hsts)
+## [🪴 View In My Digital Garden: HTTP Strict Transport Security (HSTS)](https://www.aniqa.io/wiki/security/hsts)
 
 Understanding how HSTS is a process that ensures websites are loaded over HTTPS only.
 
