@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Language of Computers: Hexadecimal](https://www.aniqa.io/wiki/web/hexadecimal)
+## [🪴 View In My Digital Garden: Language of Computers: Hexadecimal](https://www.aniqa.io/wiki/web/hexadecimal)
 
 The basics to understanding the hexadecimal system and its many uses in computer programming.
 
