@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Open Web Application Security Project (OWASP)](https://www.aniqa.io/wiki/security/owasp)
+## [🪴 View In My Digital Garden: Open Web Application Security Project (OWASP)](https://www.aniqa.io/wiki/security/owasp)
 
 The OWASP 10 online document that provides developers access to information regarding the top ten security risks for web applications along with possible solutions.
 
