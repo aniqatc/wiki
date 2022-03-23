@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Language of Computers: Binary - Bits & Bytes](https://www.aniqa.io/wiki/web/binary)
+## [🪴 View In My Digital Garden: Language of Computers: Binary - Bits & Bytes](https://www.aniqa.io/wiki/web/binary)
 
 Understanding what the binary system is and how bits and bytes allow computers to interpret all types of written and visual data.
 
