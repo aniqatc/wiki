@@ -1,4 +1,4 @@
-## [🪴 View in the Comfort of My Digital Garden: Character-Encoding: ASCII and Unicode](https://www.aniqa.io/wiki/web/character-encoding)
+## [🪴 View In My Digital Garden: Character-Encoding: ASCII and Unicode](https://www.aniqa.io/wiki/web/character-encoding)
 
 Understanding the importance of ASCII and Unicode character-encoding methodologies, as well as, the key differences between UTF Character Sets.
 
